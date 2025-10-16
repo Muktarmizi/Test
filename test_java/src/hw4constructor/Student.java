@@ -1,6 +1,7 @@
 package hw4constructor;
 
 public class Student {
+	//
 	
 	    String name;
 	    int id;
